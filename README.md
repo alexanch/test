@@ -8,6 +8,7 @@
 	title="A cute kitten" width="150" height="100"  class="center" />
 
 
+<html>
 .center {
   display: block;
   margin-left: auto;
